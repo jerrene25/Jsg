@@ -1,0 +1,5 @@
+list=[24,21,70,80,94,83,92]
+list.sort()
+print(list)
+print("The second smallest number is", list[1])
+print("The second largest number is ",list[5])
